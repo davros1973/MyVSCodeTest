@@ -1,12 +1,13 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
         {
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/src/MyVSCodeTest/bin/Debug/netcoreapp1.0/MyVSCodeTest.dll",
+            "program": "${workspaceRoot}/src/MyVSCodeTest/bin/Debug/netcoreapp1.1/MyVSCodeTest.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             "stopAtEntry": false,
